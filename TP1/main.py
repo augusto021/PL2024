@@ -1,4 +1,4 @@
-file_path = "emd.csv"
+file_path = "./emd.csv"
 emd = []
 
 with open(file_path,'r') as file:
