@@ -1,0 +1,10 @@
+Este é um exemplo de texto com algumas sequências de dígitos.
+Existem alguns números aqui: 123, 456, 789.
+Vamos ligar o somador. On
+Agora vamos somar alguns números: 1234 e 5678. Depois vamos desligar.
+= 
+Off
+
+Agora vamos ligar novamente. ON
+Vamos adicionar mais alguns números: 9876 e 5432 e ainda mais 10000.
+= 
